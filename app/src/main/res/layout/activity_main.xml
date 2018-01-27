@@ -5,7 +5,7 @@
     android:id="@+id/conslayout1"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    tools:context="com.example.ali.easywhatsapp.MainActivity"
+    tools:context="com.zeus.ali.easywhatsapp.MainActivity"
     android:layout_gravity="center">
 
     <EditText

@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:157035779636:android:c1716335a79d5629",
         "android_client_info": {
-          "package_name": "com.example.ali.easywhatsapp"
+          "package_name": "com.zeus.ali.easywhatsapp"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "157035779636-tvs85r1sf4cjrdg9icsn48hcfccthe9s.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.ali.easywhatsapp",
+            "package_name": "com.zeus.ali.easywhatsapp",
             "certificate_hash": "b4d932c94106c2d560ac91f4a4532e99cd1c3c15"
           }
         },

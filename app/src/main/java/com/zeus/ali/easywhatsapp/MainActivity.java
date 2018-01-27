@@ -1,4 +1,4 @@
-package com.example.ali.easywhatsapp;
+package com.zeus.ali.easywhatsapp;
 
 import android.content.Intent;
 import android.net.Uri;
