@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "157035779636",
+    "firebase_url": "https://easywhatsapp-9baef.firebaseio.com",
+    "project_id": "easywhatsapp-9baef",
+    "storage_bucket": "easywhatsapp-9baef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157035779636:android:c1716335a79d5629",
+        "android_client_info": {
+          "package_name": "com.example.ali.easywhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157035779636-tvs85r1sf4cjrdg9icsn48hcfccthe9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ali.easywhatsapp",
+            "certificate_hash": "b4d932c94106c2d560ac91f4a4532e99cd1c3c15"
+          }
+        },
+        {
+          "client_id": "157035779636-ghb2a8su427tlkg9v82jscblls42avhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFDr5v7HdKnLs4-loBYzn_WqnUJRseFH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157035779636-ghb2a8su427tlkg9v82jscblls42avhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
