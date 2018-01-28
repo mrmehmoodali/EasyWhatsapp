@@ -30,6 +30,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     implementation 'com.android.support:cardview-v7:27.0.2'
     compile 'com.github.GrenderG:Toasty:1.2.8'
+    implementation 'com.hbb20:ccp:2.1.2'
 }
 
 
